@@ -8,4 +8,9 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ProjectOne.Contracts\ProjectOne.Contract.csproj" />
+    <ProjectReference Include="..\ProjectOne.Entities\ProjectOne.Entity.csproj" />
+  </ItemGroup>
+
 </Project>
