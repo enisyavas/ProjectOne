@@ -1,0 +1,12 @@
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Entities\bin\Debug\netcoreapp2.2\ProjectOne.Entity.deps.json
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Entities\bin\Debug\netcoreapp2.2\ProjectOne.Entity.dll
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Entities\bin\Debug\netcoreapp2.2\ProjectOne.Entity.pdb
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Entities\bin\Debug\netcoreapp2.2\ProjectOne.Contract.dll
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Entities\bin\Debug\netcoreapp2.2\ProjectOne.Contract.pdb
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Entities\obj\Debug\netcoreapp2.2\ProjectOne.Entity.csprojAssemblyReference.cache
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Entities\obj\Debug\netcoreapp2.2\ProjectOne.Entity.csproj.CoreCompileInputs.cache
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Entities\obj\Debug\netcoreapp2.2\ProjectOne.Entity.AssemblyInfoInputs.cache
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Entities\obj\Debug\netcoreapp2.2\ProjectOne.Entity.AssemblyInfo.cs
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Entities\obj\Debug\netcoreapp2.2\ProjectOne.Entity.csproj.CopyComplete
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Entities\obj\Debug\netcoreapp2.2\ProjectOne.Entity.dll
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Entities\obj\Debug\netcoreapp2.2\ProjectOne.Entity.pdb

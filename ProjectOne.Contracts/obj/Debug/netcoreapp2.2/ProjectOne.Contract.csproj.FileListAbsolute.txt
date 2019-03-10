@@ -2,3 +2,12 @@ D:\MyProjects\ProjectOne\ProjectOne.Contracts\obj\Debug\netcoreapp2.2\ProjectOne
 D:\MyProjects\ProjectOne\ProjectOne.Contracts\obj\Debug\netcoreapp2.2\ProjectOne.Contract.csproj.CoreCompileInputs.cache
 D:\MyProjects\ProjectOne\ProjectOne.Contracts\obj\Debug\netcoreapp2.2\ProjectOne.Contract.AssemblyInfoInputs.cache
 D:\MyProjects\ProjectOne\ProjectOne.Contracts\obj\Debug\netcoreapp2.2\ProjectOne.Contract.AssemblyInfo.cs
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Contracts\bin\Debug\netcoreapp2.2\ProjectOne.Contract.deps.json
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Contracts\bin\Debug\netcoreapp2.2\ProjectOne.Contract.dll
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Contracts\bin\Debug\netcoreapp2.2\ProjectOne.Contract.pdb
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Contracts\obj\Debug\netcoreapp2.2\ProjectOne.Contract.csprojAssemblyReference.cache
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Contracts\obj\Debug\netcoreapp2.2\ProjectOne.Contract.csproj.CoreCompileInputs.cache
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Contracts\obj\Debug\netcoreapp2.2\ProjectOne.Contract.AssemblyInfoInputs.cache
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Contracts\obj\Debug\netcoreapp2.2\ProjectOne.Contract.AssemblyInfo.cs
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Contracts\obj\Debug\netcoreapp2.2\ProjectOne.Contract.dll
+C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Contracts\obj\Debug\netcoreapp2.2\ProjectOne.Contract.pdb
