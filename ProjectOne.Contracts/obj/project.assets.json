@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Enis\\.nuget\\packages\\": {},
+    "C:\\Users\\asus\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\MyProjects\\CoreProjectExample\\ProjectOne\\ProjectOne.Contracts\\ProjectOne.Contract.csproj",
+      "projectUniqueName": "D:\\MyProjects\\ProjectOne\\ProjectOne.Contracts\\ProjectOne.Contract.csproj",
       "projectName": "ProjectOne.Contract",
-      "projectPath": "c:\\MyProjects\\CoreProjectExample\\ProjectOne\\ProjectOne.Contracts\\ProjectOne.Contract.csproj",
-      "packagesPath": "C:\\Users\\Enis\\.nuget\\packages\\",
-      "outputPath": "c:\\MyProjects\\CoreProjectExample\\ProjectOne\\ProjectOne.Contracts\\obj\\",
+      "projectPath": "D:\\MyProjects\\ProjectOne\\ProjectOne.Contracts\\ProjectOne.Contract.csproj",
+      "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+      "outputPath": "D:\\MyProjects\\ProjectOne\\ProjectOne.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Enis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

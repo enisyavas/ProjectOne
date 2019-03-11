@@ -14,7 +14,7 @@ namespace ProjectOne.Service.Controller
         [HttpPost]
         public IActionResult Register()
         {
-            return Ok("Successfull user register.");
+            return Ok("Success register.");
         }
     }
 

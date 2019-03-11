@@ -11,3 +11,8 @@ C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Contracts\obj\Debug\netco
 C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Contracts\obj\Debug\netcoreapp2.2\ProjectOne.Contract.AssemblyInfo.cs
 C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Contracts\obj\Debug\netcoreapp2.2\ProjectOne.Contract.dll
 C:\MyProjects\CoreProjectExample\ProjectOne\ProjectOne.Contracts\obj\Debug\netcoreapp2.2\ProjectOne.Contract.pdb
+D:\MyProjects\ProjectOne\ProjectOne.Contracts\bin\Debug\netcoreapp2.2\ProjectOne.Contract.deps.json
+D:\MyProjects\ProjectOne\ProjectOne.Contracts\bin\Debug\netcoreapp2.2\ProjectOne.Contract.dll
+D:\MyProjects\ProjectOne\ProjectOne.Contracts\bin\Debug\netcoreapp2.2\ProjectOne.Contract.pdb
+D:\MyProjects\ProjectOne\ProjectOne.Contracts\obj\Debug\netcoreapp2.2\ProjectOne.Contract.dll
+D:\MyProjects\ProjectOne\ProjectOne.Contracts\obj\Debug\netcoreapp2.2\ProjectOne.Contract.pdb

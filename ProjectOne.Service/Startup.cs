@@ -32,9 +32,11 @@ namespace ProjectOne.Service
                 app.UseDeveloperExceptionPage();
             }
             app.UseMiddleware<ExceptionMiddleware>();
-            app.Use(async (context, next) => { await next.Invoke(); });
-            app.UseMiddleware<RegisterMiddleware>();
-
+            //app.Use(async (context, next) => { await next.Invoke(); });
+            app.Map("/home/register",req=>{
+                req.UseMiddleware<RegisterMiddleware>().UseMvc(r=>r.MapRoute("register","{controller=home}/{action=register}"));
+            });
+            
             app.UseMvc(r => { r.MapRoute("default", "{controller=Home}/{action=Index}"); });
 
             // app.Run(async (context) =>
